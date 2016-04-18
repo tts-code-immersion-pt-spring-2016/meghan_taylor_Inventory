@@ -1,4 +1,5 @@
 #!/usr/bin/ruby\
+begin
 puts "The Olde Country Store Inventory"
 puts "These are the items available:"
 H ={"spare axle" =>10, "spare wagon wheel" =>6, "spare axle tongue" =>5}
